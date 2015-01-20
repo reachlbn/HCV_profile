@@ -6,4 +6,5 @@ Drag down list end of your last row
 Copy all Concatenate rows
 Paste in Notepad or any text editor
 Save as .CSV format
+...
 
